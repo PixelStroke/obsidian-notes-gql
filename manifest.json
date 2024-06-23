@@ -1,9 +1,9 @@
 {
-  "id": "note-api",
-  "name": "Note API",
+  "id": "obsidian-note-gql",
+  "name": "Note GraphQL",
   "version": "0.1.0",
   "minAppVersion": "0.12.0",
-  "description": "A plugin to expose a local API for querying notes.",
+  "description": "A GraphQL plugin to query your vault from an external HTTP client.",
   "author": "Shon Thomas",
   "authorUrl": "https://shonthomas.app",
   "isDesktopOnly": true
