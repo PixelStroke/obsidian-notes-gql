@@ -16,3 +16,6 @@ query {
     }
 }
 ```
+
+### Build
+If you require modifications you can build the project yourself and copy the contents of the `dist` folder to your `.obsidian/plugins` folder.
